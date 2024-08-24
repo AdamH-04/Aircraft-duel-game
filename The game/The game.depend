@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1719932853 source:/home/adam/C++/The game/main.cpp
+	<SFML/Graphics.hpp>
+	<bits/stdc++.h>
+	"ships.h"
+	"missiles.h"
+	"game.h"
+
+1719927424 source:/home/adam/C++/The game/ships.cpp
+	"ships.h"
+	"game.h"
+	<SFML/Graphics.hpp>
+	<bits/stdc++.h>
+
+1720033141 /home/adam/C++/The game/ships.h
+	<SFML/Graphics.hpp>
+
+1720192666 source:/home/adam/C++/The game/game.cpp
+	<SFML/Graphics.hpp>
+	"game.h"
+	<bits/stdc++.h>
+
+1720192644 /home/adam/C++/The game/game.h
+	<SFML/Graphics.hpp>
+	<bits/stdc++.h>
+	"ships.h"
+	"missiles.h"
+
+1720033141 /home/adam/C++/The game/missiles.h
+	"ships.h"
+	<bits/stdc++.h>
+
+1719927765 source:/home/adam/C++/The game/missiles.cpp
+	<SFML/Graphics.hpp>
+	"missiles.h"
+
